@@ -495,7 +495,7 @@ database_path = "Database_for_Financial_Data.sqlite"
 conn = sqlite3.connect(database_path)
 
 def create_history_table(database_path):
-    """ Create the database and set up the three tables. """
+    """ Create the historical stock data table. """
     sql_create_history_table = ''' CREATE TABLE IF NOT EXISTS   \
                 stock_history_table ( 
     	                            stock_ID integer NOT NULL,

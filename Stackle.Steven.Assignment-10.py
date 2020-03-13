@@ -1,7 +1,7 @@
 """
 ***********************************
 Author: Steven Stackle
-Assignment #8, ICT-4370, Winter 2020, Instructor: Dr. Steven Russell
+Assignment #10, ICT-4370, Winter 2020, Instructor: Dr. Steven Russell
 Last Revision: March 13, 2020
 
 Description: This program builds the record of an investor's stock holdings
